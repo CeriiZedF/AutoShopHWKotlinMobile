@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoShopHWKotlinMobile</string>
+    <string name="text_icon_app">Icon App</string>
+    <string name="default_description_image_button">My image</string>
+</resources>
